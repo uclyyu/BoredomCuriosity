@@ -7,4 +7,4 @@ Y Yu, A Chang, R Kanai. (2018) "Boredom-driven curiosity by Homeo-Heterostatic V
 
 ## Intuition
 An intuitive understanding is nicely captured by the following cartoon.
-![intuition figure][./intuition.jpg?raw=true "Intuition"]
+![intuition figure](./intuition.jpg?raw=true "Intuition")
